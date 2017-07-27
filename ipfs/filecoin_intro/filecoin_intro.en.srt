@@ -1,0 +1,476 @@
+1
+00:00:05,380 --> 00:00:13,750
+we use the internet<font color="#CCCCCC"> for everything</font><font color="#E5E5E5"> to</font>
+
+2
+00:00:10,340 --> 00:00:17,720
+talk<font color="#E5E5E5"> to our loved ones to</font><font color="#CCCCCC"> work</font><font color="#E5E5E5"> together</font>
+
+3
+00:00:13,750 --> 00:00:19,160
+play together<font color="#E5E5E5"> the wonder of the web is</font>
+
+4
+00:00:17,720 --> 00:00:21,920
+that<font color="#E5E5E5"> people have</font><font color="#CCCCCC"> participated in the</font>
+
+5
+00:00:19,160 --> 00:00:24,140
+<font color="#E5E5E5">last 25 years sharing so much</font><font color="#CCCCCC"> about</font>
+
+6
+00:00:21,920 --> 00:00:27,170
+<font color="#E5E5E5">themselves but unfortunately we built it</font>
+
+7
+00:00:24,140 --> 00:00:29,690
+on a very<font color="#E5E5E5"> fragile infrastructure we have</font>
+
+8
+00:00:27,170 --> 00:00:31,730
+this exponential growth in the<font color="#CCCCCC"> amount</font><font color="#E5E5E5"> of</font>
+
+9
+00:00:29,690 --> 00:00:35,030
+<font color="#E5E5E5">data generated and</font><font color="#CCCCCC"> in that data that</font>
+
+10
+00:00:31,730 --> 00:00:37,280
+means<font color="#E5E5E5"> to store and safeguard the</font><font color="#CCCCCC"> way the</font>
+
+11
+00:00:35,030 --> 00:00:40,489
+Internet<font color="#E5E5E5"> has evolved there are single</font>
+
+12
+00:00:37,280 --> 00:00:43,069
+<font color="#CCCCCC">points of failure</font><font color="#E5E5E5"> everywhere we saw this</font>
+
+13
+00:00:40,489 --> 00:00:46,190
+play out<font color="#E5E5E5"> in Egypt where suddenly one</font>
+
+14
+00:00:43,069 --> 00:00:49,760
+morning people<font color="#E5E5E5"> woke up</font><font color="#CCCCCC"> to the internet</font>
+
+15
+00:00:46,190 --> 00:00:50,690
+just<font color="#E5E5E5"> completely shut</font><font color="#CCCCCC"> down</font><font color="#E5E5E5"> they can reach</font>
+
+16
+00:00:49,760 --> 00:00:54,649
+each other<font color="#E5E5E5"> they couldn't talk to each</font>
+
+17
+00:00:50,690 --> 00:00:57,589
+other<font color="#E5E5E5"> we believe is incredibly important</font>
+
+18
+00:00:54,649 --> 00:00:59,210
+<font color="#CCCCCC">to</font><font color="#E5E5E5"> improve the properties of the</font>
+
+19
+00:00:57,589 --> 00:01:00,379
+internet with the ideas of
+
+20
+00:00:59,210 --> 00:01:02,479
+<font color="#E5E5E5">decentralization and peer-to-peer</font>
+
+21
+00:01:00,379 --> 00:01:07,790
+knowledge so that's what we're working
+
+22
+00:01:02,479 --> 00:01:09,110
+<font color="#E5E5E5">on we</font><font color="#CCCCCC"> built ipfs a protocol to remove</font>
+
+23
+00:01:07,790 --> 00:01:11,030
+those central points of failure to
+
+24
+00:01:09,110 --> 00:01:13,310
+<font color="#CCCCCC">improve the resilience of the internet</font>
+
+25
+00:01:11,030 --> 00:01:16,550
+and<font color="#E5E5E5"> the web and to give information a</font>
+
+26
+00:01:13,310 --> 00:01:18,620
+stronger sense of<font color="#E5E5E5"> permanence a ipfs is a</font>
+
+27
+00:01:16,550 --> 00:01:20,420
+really<font color="#E5E5E5"> amazing community of developers</font>
+
+28
+00:01:18,620 --> 00:01:23,690
+that<font color="#CCCCCC"> are interested in building</font><font color="#E5E5E5"> to</font>
+
+29
+00:01:20,420 --> 00:01:26,420
+centralize technology<font color="#E5E5E5"> I fast as a</font>
+
+30
+00:01:23,690 --> 00:01:29,150
+<font color="#E5E5E5">large-scale</font><font color="#CCCCCC"> open-source endeavor with</font>
+
+31
+00:01:26,420 --> 00:01:32,390
+people that contribute<font color="#E5E5E5"> from all over the</font>
+
+32
+00:01:29,150 --> 00:01:33,680
+world<font color="#E5E5E5"> we are a community of people who</font>
+
+33
+00:01:32,390 --> 00:01:36,730
+<font color="#E5E5E5">really care about the</font><font color="#CCCCCC"> future of</font><font color="#E5E5E5"> the web</font>
+
+34
+00:01:33,680 --> 00:01:39,640
+and who want to<font color="#CCCCCC"> address the</font><font color="#E5E5E5"> problems</font>
+
+35
+00:01:36,730 --> 00:01:41,690
+<font color="#E5E5E5">feels to us like the web is</font>
+
+36
+00:01:39,640 --> 00:01:44,030
+consolidating at the applications layer
+
+37
+00:01:41,690 --> 00:01:47,510
+around<font color="#E5E5E5"> a small number of data monopolies</font>
+
+38
+00:01:44,030 --> 00:01:50,480
+and<font color="#E5E5E5"> we're really big believers in the</font>
+
+39
+00:01:47,510 --> 00:01:53,150
+<font color="#CCCCCC">Reda centralization of that</font><font color="#E5E5E5"> wonderful</font>
+
+40
+00:01:50,480 --> 00:01:55,010
+resource<font color="#E5E5E5"> and when we first met one we</font>
+
+41
+00:01:53,150 --> 00:01:58,860
+<font color="#E5E5E5">realized that what</font><font color="#CCCCCC"> he was doing is one</font>
+
+42
+00:01:55,010 --> 00:02:01,310
+of the real keys<font color="#CCCCCC"> to making that possible</font>
+
+43
+00:01:58,860 --> 00:02:03,390
+[Music]
+
+44
+00:02:01,310 --> 00:02:06,290
+the first phase<font color="#E5E5E5"> of our work</font>
+
+45
+00:02:03,390 --> 00:02:09,000
+decentralizing the<font color="#E5E5E5"> web was to build ipfs</font>
+
+46
+00:02:06,290 --> 00:02:11,900
+the next phase improving on<font color="#CCCCCC"> this</font>
+
+47
+00:02:09,000 --> 00:02:14,490
+foundation<font color="#CCCCCC"> is a new protocol</font><font color="#E5E5E5"> bachlin</font>
+
+48
+00:02:11,900 --> 00:02:16,410
+with the rise of protocols like Bitcoin
+
+49
+00:02:14,490 --> 00:02:19,740
+and<font color="#CCCCCC"> aetherium</font><font color="#E5E5E5"> we've seen massive</font>
+
+50
+00:02:16,410 --> 00:02:21,240
+<font color="#E5E5E5">decentralized networks</font><font color="#CCCCCC"> form where anyone</font>
+
+51
+00:02:19,740 --> 00:02:23,550
+can dedicate their computer<font color="#CCCCCC"> to run the</font>
+
+52
+00:02:21,240 --> 00:02:26,430
+network<font color="#E5E5E5"> and earn crypto tokens for doing</font>
+
+53
+00:02:23,550 --> 00:02:28,020
+so<font color="#E5E5E5"> mining for tokens is so profitable</font>
+
+54
+00:02:26,430 --> 00:02:29,970
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> these networks have</font><font color="#CCCCCC"> spreaded</font>
+
+55
+00:02:28,020 --> 00:02:32,850
+<font color="#CCCCCC">globally and created the world's most</font>
+
+56
+00:02:29,970 --> 00:02:34,980
+<font color="#E5E5E5">powerful computing systems we realized</font>
+
+57
+00:02:32,850 --> 00:02:38,400
+that we<font color="#CCCCCC"> could use the same kind of</font>
+
+58
+00:02:34,980 --> 00:02:42,740
+incentive structures<font color="#E5E5E5"> of Bitcoin to</font>
+
+59
+00:02:38,400 --> 00:02:47,480
+create a decentralized storage network
+
+60
+00:02:42,740 --> 00:02:51,150
+there is<font color="#CCCCCC"> a massive amount of unused</font>
+
+61
+00:02:47,480 --> 00:02:53,100
+<font color="#E5E5E5">latent storage out there the vision</font><font color="#CCCCCC"> for</font>
+
+62
+00:02:51,150 --> 00:02:56,670
+<font color="#CCCCCC">file claim is to create a decentralized</font>
+
+63
+00:02:53,100 --> 00:03:00,000
+<font color="#E5E5E5">storage market and networks kind of like</font>
+
+64
+00:02:56,670 --> 00:03:02,760
+Airbnb<font color="#E5E5E5"> where all that unused</font><font color="#CCCCCC"> storage can</font>
+
+65
+00:03:00,000 --> 00:03:04,380
+be<font color="#E5E5E5"> sold on the</font><font color="#CCCCCC"> market so with this vast</font>
+
+66
+00:03:02,760 --> 00:03:07,290
+amount<font color="#E5E5E5"> of supply joining the network</font>
+
+67
+00:03:04,380 --> 00:03:09,239
+<font color="#E5E5E5">that is not currently</font><font color="#CCCCCC"> connected we can</font>
+
+68
+00:03:07,290 --> 00:03:12,239
+optimize<font color="#E5E5E5"> our resources and drop the cost</font>
+
+69
+00:03:09,239 --> 00:03:14,070
+of storage one of the key things about
+
+70
+00:03:12,239 --> 00:03:16,560
+the<font color="#E5E5E5"> Casa network is that</font><font color="#CCCCCC"> there is a</font>
+
+71
+00:03:14,070 --> 00:03:19,380
+native<font color="#E5E5E5"> token to the system and that's</font>
+
+72
+00:03:16,560 --> 00:03:21,680
+<font color="#E5E5E5">the fostering it's the medium of</font>
+
+73
+00:03:19,380 --> 00:03:24,120
+exchange<font color="#E5E5E5"> for this</font><font color="#CCCCCC"> decentralized market</font>
+
+74
+00:03:21,680 --> 00:03:25,950
+<font color="#E5E5E5">users spend</font><font color="#CCCCCC"> filing to hire the network</font>
+
+75
+00:03:24,120 --> 00:03:27,989
+to store their<font color="#E5E5E5"> files and storage</font>
+
+76
+00:03:25,950 --> 00:03:29,610
+providers<font color="#E5E5E5"> get paid in South Point which</font>
+
+77
+00:03:27,989 --> 00:03:35,130
+scales with how much<font color="#E5E5E5"> storage they add</font>
+
+78
+00:03:29,610 --> 00:03:36,750
+and how close they are to<font color="#CCCCCC"> the users one</font>
+
+79
+00:03:35,130 --> 00:03:40,050
+of the powerful<font color="#E5E5E5"> things about file coin</font>
+
+80
+00:03:36,750 --> 00:03:43,890
+is that<font color="#E5E5E5"> it allows individuals to be</font>
+
+81
+00:03:40,050 --> 00:03:45,959
+incentivized<font color="#E5E5E5"> to act as</font><font color="#CCCCCC"> parts of a</font>
+
+82
+00:03:43,890 --> 00:03:48,330
+<font color="#E5E5E5">network</font><font color="#CCCCCC"> each individual</font><font color="#E5E5E5"> will contribute</font>
+
+83
+00:03:45,959 --> 00:03:50,430
+their part<font color="#CCCCCC"> and</font><font color="#E5E5E5"> get paid</font><font color="#CCCCCC"> for it</font><font color="#E5E5E5"> but then</font>
+
+84
+00:03:48,330 --> 00:03:52,440
+the sum<font color="#E5E5E5"> of all the individuals will</font>
+
+85
+00:03:50,430 --> 00:03:54,870
+create a<font color="#E5E5E5"> network that it's much more</font>
+
+86
+00:03:52,440 --> 00:03:57,360
+powerful<font color="#CCCCCC"> than the</font><font color="#E5E5E5"> systems that we have</font>
+
+87
+00:03:54,870 --> 00:03:59,850
+today<font color="#CCCCCC"> PowerPoint can</font><font color="#E5E5E5"> be exchanged for</font>
+
+88
+00:03:57,360 --> 00:04:01,920
+Bitcoin<font color="#CCCCCC"> aetherium dollars euros and so</font>
+
+89
+00:03:59,850 --> 00:04:03,810
+on or users can hold<font color="#E5E5E5"> on to their</font><font color="#CCCCCC"> pal</font>
+
+90
+00:04:01,920 --> 00:04:08,040
+<font color="#E5E5E5">coin which may appreciate as the network</font>
+
+91
+00:04:03,810 --> 00:04:10,980
+<font color="#E5E5E5">grows anybody who uses the</font><font color="#CCCCCC"> technology</font>
+
+92
+00:04:08,040 --> 00:04:12,730
+can become an investor in<font color="#E5E5E5"> the technology</font>
+
+93
+00:04:10,980 --> 00:04:15,010
+they<font color="#CCCCCC"> can buy tokens</font>
+
+94
+00:04:12,730 --> 00:04:17,500
+that file coin is successful they can
+
+95
+00:04:15,010 --> 00:04:19,180
+<font color="#CCCCCC">share in that financial success it's</font>
+
+96
+00:04:17,500 --> 00:04:21,430
+kind of like<font color="#E5E5E5"> anybody in the world being</font>
+
+97
+00:04:19,180 --> 00:04:23,680
+able<font color="#E5E5E5"> to get a seed investment in a</font>
+
+98
+00:04:21,430 --> 00:04:25,229
+Google or a Facebook or<font color="#E5E5E5"> an Amazon or</font>
+
+99
+00:04:23,680 --> 00:04:27,490
+something<font color="#CCCCCC"> like that</font>
+
+100
+00:04:25,229 --> 00:04:30,150
+Falcone is<font color="#E5E5E5"> going to completely reimagine</font>
+
+101
+00:04:27,490 --> 00:04:32,470
+<font color="#E5E5E5">the way data is stored and delivered</font>
+
+102
+00:04:30,150 --> 00:04:35,680
+<font color="#E5E5E5">especially in the places where</font><font color="#CCCCCC"> internet</font>
+
+103
+00:04:32,470 --> 00:04:38,979
+service is most fragile<font color="#E5E5E5"> just like people</font>
+
+104
+00:04:35,680 --> 00:04:40,660
+<font color="#CCCCCC">mined Bitcoin all over the world</font><font color="#E5E5E5"> local</font>
+
+105
+00:04:38,979 --> 00:04:42,580
+entrepreneurs will realize they can mine
+
+106
+00:04:40,660 --> 00:04:45,280
+<font color="#CCCCCC">pal coin by plugging together as many</font>
+
+107
+00:04:42,580 --> 00:04:47,490
+<font color="#CCCCCC">card</font><font color="#E5E5E5"> drives as</font><font color="#CCCCCC"> they can get not only can</font>
+
+108
+00:04:45,280 --> 00:04:49,840
+they earn significant amounts of<font color="#E5E5E5"> money</font>
+
+109
+00:04:47,490 --> 00:04:53,650
+<font color="#E5E5E5">but they can also provide a valuable</font>
+
+110
+00:04:49,840 --> 00:04:56,199
+service<font color="#CCCCCC"> to their</font><font color="#E5E5E5"> local community we can</font>
+
+111
+00:04:53,650 --> 00:04:58,419
+move<font color="#E5E5E5"> all</font><font color="#CCCCCC"> of the really valuable</font><font color="#E5E5E5"> precious</font>
+
+112
+00:04:56,199 --> 00:05:00,010
+content of the<font color="#CCCCCC"> Internet this amazing</font>
+
+113
+00:04:58,419 --> 00:05:02,789
+compendium<font color="#E5E5E5"> of knowledge into</font><font color="#CCCCCC"> those</font>
+
+114
+00:05:00,010 --> 00:05:05,560
+regions<font color="#CCCCCC"> so we</font><font color="#E5E5E5"> can be served locally</font><font color="#CCCCCC"> and</font>
+
+115
+00:05:02,789 --> 00:05:07,930
+give access<font color="#CCCCCC"> to billions of people who</font>
+
+116
+00:05:05,560 --> 00:05:11,249
+are currently<font color="#E5E5E5"> locked out of the web</font>
+
+117
+00:05:07,930 --> 00:05:11,249
+[Music]
+
+118
+00:05:14,040 --> 00:05:16,100
+you
+
+119
+00:05:27,650 --> 00:05:29,710
+you
+
