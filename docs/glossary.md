@@ -191,3 +191,8 @@ Solidity 是 Ethereum 用于开发智能合约的编程语言.
 ## Wallet(钱包)
 
 一个包含私钥的文件. 它通常包含一个软件客户端, 允许访问查看和创建钱包所涉及的特定块链的交易.
+
+## UTXO(Unspent Transaction Output)
+
+* <https://bitcoin.org/en/glossary/unspent-transaction-output>
+* <http://8btc.com/article-4381-1.html>
