@@ -25,6 +25,7 @@ class hello : public eosio::contract {
           if (it == t.end()) {
             print("insert");
             t.emplace(_self, [&]( auto& s ) {
+                s.i = 1;
                 s.j++;
             });
           } else {
