@@ -76,7 +76,7 @@ public:
 
         auto iter = _pollresults.find(questionId);
 
-        if(iter == _pollresults.end()){
+        if (iter == _pollresults.end()) {
 
             _pollresults.emplace(configs::get().application, [&](auto& row){
                 row.questionId = questionId;
@@ -92,8 +92,7 @@ public:
             });
 
             print("Poll added");
-        }
-        else{
+        } else {
             print("Poll already exists");
         }
     }
@@ -105,10 +104,9 @@ public:
 
         auto iter = _pollresults.find(questionId);
 
-        if(iter == _pollresults.end()){
+        if (iter == _pollresults.end()) {
             print("No poll to delete");
-        }
-        else{
+        } else {
             _pollresults.erase(iter);
             print("Poll deleted");
         }
