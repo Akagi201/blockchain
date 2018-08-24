@@ -1,3 +1,7 @@
+## SPV(Simplified Payment Verification)
+* <https://bitcoin.org/en/glossary/simplified-payment-verification>
+* <https://bitcoin.org/en/developer-guide#simplified-payment-verification-spv>
+
 ## 51% Attack(51% 攻击)
 
 当一个单一个体或者一个组超过一半的计算能力时, 这个个体或组就可以控制整个加密货币网络, 如果他们有一些恶意的想法, 他们就有可能发出一些冲突的交易来损坏整个网络.
