@@ -1,3 +1,18 @@
+## OLTP(On-Line Transaction Processing) 联机事务处理
+是传统的关系型数据库的主要应用, 主要是基本的, 日常的事务处理, 例如银行交易.
+
+## OLAP(On-Line Analytical Processing) 联机分析处理
+数据仓库系统的主要应用, 支持复杂的分析操作, 侧重决策支持, 并且提供直观易懂的查询结果.
+
+## Sybil Attack(女巫攻击)
+女巫攻击通俗讲是, 旷工利用 n 个身份, 承诺会存储 n 份数据. 但是, 实际上只存储小于 n 份的数据, 谎报自己存储了 n 份数据.
+
+## Outsourcing Attack(外部数据源攻击)
+当系统要求旷工提供证明时, 旷工利用别人那里存储数据生产的证明, 提交给系统. 然而, 实际上, 他并没有存储.
+
+## Generation Attack(生成攻击)
+使用这个攻击的矿工比较厉害, 利用某种方式生成数据, 当系统要求验证时, 就用这个数据生成证明, 完成攻击.
+
 ## SPV(Simplified Payment Verification)
 * <https://bitcoin.org/en/glossary/simplified-payment-verification>
 * <https://bitcoin.org/en/developer-guide#simplified-payment-verification-spv>
