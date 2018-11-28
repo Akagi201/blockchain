@@ -14,3 +14,7 @@
 .glide/
 
 blockchain.db
+
+.vscode/
+
+node_modules/
