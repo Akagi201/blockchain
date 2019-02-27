@@ -16,6 +16,7 @@ import (
 const (
 	horizonURL = "https://horizon-testnet.kininfrastructure.com"
 	// horizonURL = "https://horizon-testnet.stellar.org"
+	// horizonURL = "http://172.18.16.176:80"
 )
 
 func fillAccounts(addresses [2]string) {
@@ -96,6 +97,6 @@ func main() {
 	}
 	fillAccounts(addresses)
 	logBalances(addresses)
-	sendLumens("100", sourcePair.Seed(), destinationPair.Address())
+	sendLumens("1", sourcePair.Seed(), destinationPair.Address())
 	logBalances(addresses)
 }
