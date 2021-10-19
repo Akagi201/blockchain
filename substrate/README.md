@@ -3,4 +3,4 @@
 ## 作业
 
 * [solution01](solution01/bitcoin_white_paper_explained.md)
-* [solution01](solution01/README.md)
+* [solution02](solution02/README.md)
