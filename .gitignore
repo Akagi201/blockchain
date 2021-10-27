@@ -18,3 +18,5 @@ blockchain.db
 .vscode/
 
 node_modules/
+
+target/

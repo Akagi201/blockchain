@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "calc-area",
+    "sum-u32",
+    "traffic-light",
+]
