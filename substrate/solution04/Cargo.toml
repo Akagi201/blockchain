@@ -1,6 +1,7 @@
 [workspace]
 members = [
-    "calc-area",
-    "sum-u32",
-    "traffic-light",
+  "calc-area",
+  "calc-area-into",
+  "sum-u32",
+  "traffic-light",
 ]

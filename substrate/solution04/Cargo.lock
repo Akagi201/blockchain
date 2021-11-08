@@ -7,6 +7,10 @@ name = "calc-area"
 version = "0.1.0"
 
 [[package]]
+name = "calc-area-into"
+version = "0.1.0"
+
+[[package]]
 name = "sum-u32"
 version = "0.1.0"
 
