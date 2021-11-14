@@ -1,0 +1,23 @@
+{
+  "name": "polkadot-js-cli",
+  "version": "0.1.0",
+  "description": "A cli to connect to substrate node template",
+  "main": "index.js",
+  "author": "Akagi201",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node --use_strict index.js",
+    "start:dev": "nodemon --use_strict --inspect index.js",
+    "start:debug": "nodemon --use_strict --inspect --inspect-brk index.js"
+  },
+  "dependencies": {
+    "@polkadot/api": "^6.8.1",
+    "@polkadot/keyring": "^7.8.2",
+    "@polkadot/util": "^7.8.2",
+    "@polkadot/util-crypto": "^7.8.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
