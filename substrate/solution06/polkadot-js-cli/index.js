@@ -1,3 +1,4 @@
+// @ts-check
 "use strict";
 
 const { ApiPromise, WsProvider, Keyring } = require('@polkadot/api');
