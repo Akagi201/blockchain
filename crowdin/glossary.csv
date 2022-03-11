@@ -1,26 +1,26 @@
 ﻿"Term [en]","Description [en]","Part of Speech [en]"
-"Open Web",开放网络,NOUN
-Nightshade,夜影,NOUN
+"open web",开放网络,NOUN
+nightshade,夜影,NOUN
 chunks,分片段,NOUN
-Validator,验证节点,NOUN
+validator,验证节点,NOUN
 "genesis block","genesis block",NOUN
 "full virtual machine",图灵完备的虚拟机,NOUN
 robustness,鲁棒性,NOUN
 volume,吞吐量,NOUN
 speed,处理速度,NOUN
 "cost transactions",交易成本,NOUN
-Usability,可用性,NOUN
-"Chunk Producer",出段人,NOUN
+usability,可用性,NOUN
+"chunk producer",出段人,NOUN
 fisherman,渔夫,NOUN
-Primitives,基元,NOUN
+primitives,基元,NOUN
 implementation,实现,NOUN
 slot,卡槽,NOUN
-"License compliance",许可证书一致性,NOUN
+"license compliance",许可证书一致性,NOUN
 "performance overhead",性能开销,NOUN
 "dump memory",内存转储,NOUN
 "block ordinal",区块序号,NOUN
-"Missing Block",丢块,NOUN
-"Unknown Block",未知区块,NOUN
+"missing block",丢块,NOUN
+"unknown block",未知区块,NOUN
 "synthetic bench",综合基准测试,NOUN
 "attack angle",攻击方式,NOUN
 versioning,版本化,NOUN
@@ -36,7 +36,7 @@ versioning,版本化,NOUN
 "storage attachment",存储附件,NOUN
 "transaction-time authorization",交易时间授权,NOUN
 receipts,交易回执,NOUN
-"Cross-Chain Atomic Swap",跨链原子互换,NOUN
+"cross-chain atomic swap",跨链原子互换,NOUN
 "social graphs",社交图谱,NOUN
 "key rotation",秘钥轮换,NOUN
 "fair launch",公平启动,NOUN
@@ -48,18 +48,18 @@ post-mortem,事后分析,NOUN
 "private shard",私有分片,NOUN
 hackathon,黑客马拉松,NOUN
 "application hosting",应用托管,NOUN
-"Open Finance",开放金融,NOUN
+"open finance",开放金融,NOUN
 "account model",账户模型,NOUN
 "cross-shard communication",跨分片通信,NOUN
 "access keys",授权密钥,NOUN
 "staking pool contract",质押池合约,NOUN
 bridge,跨链/跨链桥,NOUN
-"Non-fungible Token",非同质化通证,NOUN
+"non-fungible token",非同质化通证,NOUN
 "layer 2 components",第二层组件,NOUN
-"Contract-Based Accounts",基于合约的账户,NOUN
+"contract-based accounts",基于合约的账户,NOUN
 delegation,委托,NOUN
 endowment,捐赠基金,NOUN
-"Circulating Supply",流通供应量,NOUN
+"circulating supply",流通供应量,NOUN
 uptime,在线时间,NOUN
 guild,公会,NOUN
 "private transaction",私密交易,NOUN
@@ -69,7 +69,7 @@ precompile,预编译,ADJ
 DevEx,开发者体验,NOUN
 "initial supply",初次发行,NOUN
 "convertible note",可兑换票据,NOUN
-"New Issuance",通证增发,NOUN
+"new issuance",通证增发,NOUN
 DevOps,开发运维,NOUN
 epoch,周期,NOUN
 challenge,质疑/挑战,NOUN
