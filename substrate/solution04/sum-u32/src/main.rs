@@ -1,3 +1,4 @@
+#[allow(dead_code)]
 fn sum_u32(a: &[u32]) -> Option<u32> {
     let mut sum: u32 = 0;
     for v in a.iter() {

@@ -20,4 +20,4 @@
 
 ## 运行结果
 
-![](assets/solution04.png)
+![solution04](assets/solution04.png)

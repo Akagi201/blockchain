@@ -22,8 +22,8 @@ pub struct Circle {
 impl RightTriangle {
     pub fn new(base: f64, height: f64) -> Self {
         RightTriangle {
-            base: base,
-            height: height,
+            base,
+            height,
         }
     }
 }
@@ -31,15 +31,15 @@ impl RightTriangle {
 impl Rectangle {
     pub fn new(width: f64, height: f64) -> Self {
         Rectangle {
-            width: width,
-            height: height,
+            width,
+            height,
         }
     }
 }
 
 impl Circle {
     pub fn new(radius: f64) -> Self {
-        Circle { radius: radius }
+        Circle { radius }
     }
 }
 
