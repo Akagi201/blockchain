@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD041 MD010 MD033 -->
 # blockchain
 
 Learning notes and sample codes about blockchains
@@ -28,4 +29,10 @@ Learning notes and sample codes about blockchains
 <p float="left">
 <img src="assets/subquery_graduate.jpg" width="450" alt="subquery_graduate"/>
 <img src="assets/subquery_outstanding.jpg" width="450" alt="subquery_outstanding"/>
+
+<br />
+
+<p float="left">
+<img src="assets/moonbeam2_graduate.png" width="450" alt="moonbeam2_graduate"/>
+<img src="assets/moonbeam2_outstanding.png" width="450" alt="moonbeam2_outstanding"/>
 </p>
