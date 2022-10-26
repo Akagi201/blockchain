@@ -6,6 +6,12 @@ Learning notes and sample codes about blockchains
 ## Certificates
 
 <p float="left">
+<img src="assets/dfinity_intro.jpeg" width="900" alt="dfinity_intro"/>
+</p>
+
+<br />
+
+<p float="left">
 <img src="assets/substrate_evanglist_cn.png" width="450" alt="substrate_evanglist_cn"/>
 <img src="assets/substrate_evanglist_en.png" width="450" alt="substrate_evanglist_en"/>
 </p>
