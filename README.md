@@ -6,7 +6,8 @@ Learning notes and sample codes about blockchains
 ## Certificates
 
 <p float="left">
-<img src="assets/dfinity_intro.jpeg" width="900" alt="dfinity_intro"/>
+<img src="assets/moonbeam_advanced.png" width="450" alt="moonbeam_advanced"/>
+<img src="assets/dfinity_intro.jpeg" width="450" alt="dfinity_intro"/>
 </p>
 
 <br />
