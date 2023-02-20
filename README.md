@@ -5,6 +5,22 @@ Learning notes and sample codes about blockchains
 
 ## Certificates
 
+想参加相关课程的可以扫码报名，完成作业后达到优秀，会全额退款，以及可以获得证书，以及申请 Substrate 技术大使等。
+
+<p float="left">
+<img src="assets/substrate_intro_refer.jpeg" width="450" alt="substrate_intro_refer"/>
+<img src="assets/substrate_advanced_refer.jpeg" width="450" alt="substrate_advanced_refer"/>
+</p>
+
+<p float="left">
+<img src="assets/moonbeam_advanced.png" width="450" alt="moonbeam_advanced"/>
+<img src="assets/moonbeam_advanced_outstanding.png" width="450" alt="moonbeam_advanced_outstanding"/>
+</p>
+
+<p float="left">
+<img src="assets/aliyun_apsara_clouder.png" width="900" alt="aliyun_apsara_clouder"/>
+</p>
+
 <p float="left">
 <img src="assets/moonbeam_advanced.png" width="450" alt="moonbeam_advanced"/>
 <img src="assets/moonbeam_advanced_outstanding.png" width="450" alt="moonbeam_advanced_outstanding"/>
