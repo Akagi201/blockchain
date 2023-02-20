@@ -12,19 +12,21 @@ Learning notes and sample codes about blockchains
 <img src="assets/substrate_advanced_refer.jpeg" width="450" alt="substrate_advanced_refer"/>
 </p>
 
-<p float="left">
-<img src="assets/moonbeam_advanced.png" width="450" alt="moonbeam_advanced"/>
-<img src="assets/moonbeam_advanced_outstanding.png" width="450" alt="moonbeam_advanced_outstanding"/>
-</p>
-
-<p float="left">
-<img src="assets/aliyun_apsara_clouder.png" width="900" alt="aliyun_apsara_clouder"/>
-</p>
+<br />
 
 <p float="left">
 <img src="assets/moonbeam_advanced.png" width="450" alt="moonbeam_advanced"/>
 <img src="assets/moonbeam_advanced_outstanding.png" width="450" alt="moonbeam_advanced_outstanding"/>
 </p>
+
+<br />
+
+<p float="left">
+<img src="assets/moonbeam_advanced.png" width="450" alt="moonbeam_advanced"/>
+<img src="assets/moonbeam_advanced_outstanding.png" width="450" alt="moonbeam_advanced_outstanding"/>
+</p>
+
+<br />
 
 <p float="left">
 <img src="assets/dfinity_intro.jpeg" width="900" alt="dfinity_intro"/>
@@ -69,4 +71,10 @@ Learning notes and sample codes about blockchains
 <p float="left">
 <img src="assets/moonbeam2_graduate.png" width="450" alt="moonbeam2_graduate"/>
 <img src="assets/moonbeam2_outstanding.png" width="450" alt="moonbeam2_outstanding"/>
+</p>
+
+<br />
+
+<p float="left">
+<img src="assets/aliyun_apsara_clouder.png" width="900" alt="aliyun_apsara_clouder"/>
 </p>
