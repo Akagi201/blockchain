@@ -8,6 +8,10 @@ Learning notes and sample codes about blockchains
 想参加相关课程的可以扫码报名，完成作业后达到优秀，会全额退款，以及可以获得证书，以及申请 Substrate 技术大使等。
 
 <p float="left">
+<img src="assets/excellent_teaching_assistant.png" width="450" alt="excellent_teaching_assistant">
+</p>
+
+<p float="left">
 <img src="assets/substrate_intro_refer.jpeg" width="450" alt="substrate_intro_refer"/>
 <img src="assets/substrate_advanced_refer.jpeg" width="450" alt="substrate_advanced_refer"/>
 </p>
