@@ -1,0 +1,10 @@
+datadir = "dev"
+chain = "dev"
+http = true
+"http.addr" = "0.0.0.0"
+ws = true
+"http.trace" = true
+mine = true
+"http.api" = ["eth","erigon","web3","net","debug","trace","txpool","parity","admin"]
+"http.corsdomain" = "*"
+"dev.period" = 5
