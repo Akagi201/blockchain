@@ -3,6 +3,10 @@
 
 Learning notes and sample codes about blockchains
 
+## Books
+
+* [Bitcoin development philosophy](https://bitcoindevphilosophy.com/)
+
 ## NFTs
 
 * <https://yumi.io/market/nft-detail/3bag5-taaaa-aaaah-adoka-cai/1>
