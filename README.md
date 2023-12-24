@@ -9,6 +9,7 @@ Learning notes and sample codes about blockchains
 
 ## NFTs
 
+* <https://decert.me/user/0xB0e7E2Ab7bD99b01B344d256Fa21AE6a7641D165>
 * <https://yumi.io/market/nft-detail/3bag5-taaaa-aaaah-adoka-cai/1>
 
 ## Certificates
